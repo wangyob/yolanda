@@ -1,4 +1,4 @@
-helloci
+helloci yolanda
 =======
 
 Test projects for Git training
